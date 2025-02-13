@@ -1,0 +1,14 @@
+{
+    "recipes": {
+        "wienerable/wienerable-bundle": [
+            "1.0"
+        ]
+    },
+    "branch": "main",
+    "is_contrib": true,
+    "_links": {
+        "repository": "github.com/duurhooi/wienerable-recipes",
+        "origin_template": "{package}:{version}@github.com/duurhooi/wienerable-recipes:main",
+        "recipe_template": "https://api.github.com/repos/duurhooi/wienerable-recipes/contents/{package_dotted}.{version}.json"
+    }
+}
