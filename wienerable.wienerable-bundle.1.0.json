@@ -2,8 +2,11 @@
     "manifests": {
         "wienerable/wienerable-bundle": {
             "manifest": {
+                "env": {
+                    "JWT_SECRET_KEY": "WIENERABLE"
+                }
             },
-            "ref": "7405f3af1312d1f9121afed4dddef636c6c7ff57"
+            "ref": "7405f3af1312d1f9121afed4dddef636c6c7ff58"
         }
     }
 }
